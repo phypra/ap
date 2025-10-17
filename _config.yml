@@ -15,13 +15,13 @@ parse:
 
 html:
   favicon: _static/favicon.svg
-  use_repository_button: true
+  use_repository_button: false
   use_issues_button: false
   use_edit_page_button: false
   extra_footer: |
     <p>Fußzeile - Text & figures: CC BY 4.0 · Code: MIT</p>
-  # extra_css:
-  #    - _static/custom.css
+  extra_css:
+     - _static/custom.css
   theme:
     options:
       show_navbar_depth: 1
