@@ -1,8 +1,0 @@
-format: jb-book
-root: index
-
-parts:
-  - caption: Versuche
-    chapters:
-      - file: 2/index
-      - file: 4/index
